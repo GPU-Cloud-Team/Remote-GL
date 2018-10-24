@@ -47,11 +47,11 @@ Here is the video demo of Remote-GL:
 
 ## About US
 
-[Trusted Cloud Group](tcloud.sjtu.edu.cn), Shanghai Jiaotong University
+[Trusted Cloud Group](http://tcloud.sjtu.edu.cn/), Shanghai Jiaotong University
 
-Zhengwei Qi :  qizhwei AT sjtu.edu.cn <br/>
-Dongji Tang :  dongjitang AT outlook.com <br/>
-Yun Wang    :  yunwang94 AT sjtu.edu.cn <br/>
-Linsheng Li :  lilinsheng1 AT sjtu.edu.cn <br/>
+[Zhengwei Qi](http://tcloud.sjtu.edu.cn/people/zhengwei/) :  qizhwei AT sjtu.edu.cn <br/>
+[Dongji Tang]() :  dongjitang AT outlook.com <br/>
+[Yun Wang]()    :  yunwang94 AT sjtu.edu.cn <br/>
+[Linsheng Li]() :  lilinsheng1 AT sjtu.edu.cn <br/>
 
  
