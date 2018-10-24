@@ -1,7 +1,5 @@
 ## Introduction
-
 ![](https://raw.githubusercontent.com/GPU-Cloud-Team/Remote-GL/gh-pages/remote-gl.png)
-
 <center>Figure 1. Remote-GL<center>
 
 Remote-GL is a client-server system that uses a remote GPU to implement native OpenGL functionality. 
@@ -54,9 +52,9 @@ Here is the video demo of Remote-GL:
 
 [Trusted Cloud Group](tcloud.sjtu.edu.cn), Shanghai Jiaotong University
 
-Zhengwei Qi   qizhwei AT sjtu.edu.cn <br/>
-Dongji Tang  dongjitang AT outlook.com <br/>
-Yun Wang      yunwang94 AT sjtu.edu.cn <br/>
-Linsheng Li   lilinsheng1 AT sjtu.edu.cn <br/>
+Zhengwei Qi :  qizhwei AT sjtu.edu.cn <br/>
+Dongji Tang :  dongjitang AT outlook.com <br/>
+Yun Wang    :  yunwang94 AT sjtu.edu.cn <br/>
+Linsheng Li :  lilinsheng1 AT sjtu.edu.cn <br/>
 
  
