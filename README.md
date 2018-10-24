@@ -6,7 +6,7 @@
 
 Remote-GL is a client-server system that uses a remote GPU to implement native OpenGL functionality. 
 The key point of Remote-GL is that: The client passes all opengl instrutions to the server side and recieve the result from the server.
-
+<br/>
 
 **The client side**: 
 	
@@ -15,39 +15,41 @@ The key point of Remote-GL is that: The client passes all opengl instrutions to 
 	3. Receive the result.
 	4. Display the result.
 	
-	
+<br/>
 **The server side**:
 	
 	1. Receive the instructions and data transported from the client side.
 	2. Allocate necessary memory space and kernels of GPUs and the execute the instructions.
 	3. Send back the result.
 
-
+<br/>
 **The Network layer**:
 	
 	1. Control Channel: transport control instructions and metadata.
 	2. Data Channel: transport OpenGL API calls and related data. 
 
-
+<br/>
 ## Publications
 
 [Comming soon]
 
-
+<br/>
 ## Code
 
 Source code: [Here](https://github.com/GPU-Cloud-Team/Remote-GL)
 
-
+<br/>
 ## Demo
 
-Here is the demo of multi-clients with single server.
+Here is the demo of multi-clients with single server:
+<br/>
 
 ![](https://raw.githubusercontent.com/GPU-Cloud-Team/Remote-GL/gh-pages/demo.png)
 
 <center>Figure 2. Multi-clients vs single server<center>
 
-Here is the video demo of Remote-GL.
+Here is the video demo of Remote-GL:
+<br/>
 
 ![](https://raw.githubusercontent.com/GPU-Cloud-Team/Remote-GL/gh-pages/demo-gif.gif)
 
